@@ -93,7 +93,7 @@ st.sidebar.title('Options')
 st.sidebar.header('Notices', divider='rainbow')
 st.sidebar.subheader(
     '1. API is rate limited so it will fail after few uses')
-st.sidebar.subheader('3. We fetch max 100 commits / repo',  divider='blue')
+st.sidebar.subheader('2. We fetch max 100 commits / repo',  divider='blue')
 info_placeholder = st.sidebar.empty()
 username = st.sidebar.text_input('Enter GitHub Username')
 
