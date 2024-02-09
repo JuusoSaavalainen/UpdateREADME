@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "mvp-git-cacl"
+name = "updateREADME"
 version = "0.1.0"
 description = ""
 authors = ["saavajuu <juuso.saavalainen@helsinki.fi>"]
 readme = "README.md"
-packages = [{include = "mvp_git_cacl"}]
+packages = [{include = "updateREADME"}]
 
 [tool.poetry.dependencies]
 python = ">=3.9,<3.9.7 || >3.9.7,<4.0"
